@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Halil
-- 👀 I’m interested in games and coding them
-- 🌱 I’m currently learning some c++ coding :)
-- 💞️ I’m looking to collaborate on a game!
+- 👀 I’m interested in building stuff
+- 🌱 I’m currently learning drf and react
+- 💞️ I’m looking to collaborate on a full stack website!
 - 📫 How to reach me email: no way ;)
 
 <!---
